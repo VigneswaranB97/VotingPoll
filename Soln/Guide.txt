@@ -1,0 +1,6 @@
+Installation steps:
+	1) Install Python 3.7.6
+	2) pip install -r requirements.txt
+	3) localhost:8000/admin is admin page
+	4) localhost:8000 is home page
+	5) Uploaded code and clear installation guide to https://github.com/VigneswaranB97/VotingPoll
