@@ -5,9 +5,9 @@ Installation steps:
   2) Install Python
   3) pip install -r requirements.txt
   4) python manage.py createsuperuser
-      3.1) This will ask for username, password for admin
+      4.1) This will ask for username, password for admin
   5) python manage.py runserver
-      4.1) <ip>:<port> will be shown in the console
+      5.1) ip:port will be shown in the console
 
 Important notes:
   1) ip:port/admin => mainpoll, users,  
