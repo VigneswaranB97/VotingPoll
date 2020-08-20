@@ -3,11 +3,13 @@
 Installation steps:
   1) Download soln.zip file that is submitted and unzip it.
   2) Install Python
-  3) pip install -r requirements.txt
-  4) python manage.py createsuperuser
-      4.1) This will ask for username, password for admin
-  5) python manage.py runserver
-      5.1) ip:port will be shown in the console
+  3) Open command prompt/anaconda prompt and go to the soln folder.
+  4) pip install -r requirements.txt 
+  5) Inside hack_poll type following cmds
+  6) python manage.py createsuperuser
+      6.1) This will ask for username, password for admin
+  7) python manage.py runserver
+      7.1) ip:port will be shown in the console
 
 Important notes:
   1) ip:port/admin => mainpoll, users,  
